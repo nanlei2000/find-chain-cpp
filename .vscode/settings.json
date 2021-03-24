@@ -1,0 +1,16 @@
+{
+  "files.associations": {
+    "*.ejs": "plaintext",
+    "*.cjson": "jsonc",
+    "*.wxss": "css",
+    "*.wxs": "javascript",
+    "*.wpy": "vue",
+    "*.wxml": "html",
+    "tslint.json": "jsonc",
+    "*.mdx": "mdx",
+    "iosfwd": "cpp",
+    "vector": "cpp",
+    "iostream": "cpp",
+    "ostream": "cpp"
+  }
+}
